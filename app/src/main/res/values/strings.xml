@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="button_send_text">Отправить</string>
+    <string name="message_input_hint">Введите текст сюда...</string>
+</resources>
